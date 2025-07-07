@@ -1,0 +1,4305 @@
+[
+    {
+        "name": "Enemy",
+        "characters": [
+            {
+                "name": "Infestation",
+                "categories": [
+                    {
+                        "name": "Infestation",
+                        "files": [
+                            "Enemy - Infestation.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sloth",
+                "categories": [
+                    {
+                        "name": "Sloth",
+                        "files": [
+                            "Enemy - Sloth.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "France",
+        "characters": [
+            {
+                "name": "Algérie",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Algérie Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Algérie Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Algérie Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Béarn",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Béarn Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Béarn Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Béarn Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dunkerque",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Dunkerque Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Dunkerque Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Dunkerque Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jeanne d'Arc",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Jeanne d'Arc Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Jeanne d'Arc Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Jeanne d'Arc Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "L'Audacieux",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - L'Audacieux Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - L'Audacieux Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - L'Audacieux Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "La Motte-Picquet",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - La Motte-Picquet Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - La Motte-Picquet Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - La Motte-Picquet Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Le Terrible",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Le Terrible Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Le Terrible Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Le Terrible Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Le Triomphant",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Le Triomphant Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Le Triomphant Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Le Triomphant Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Léopard",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Léopard Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Léopard Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Léopard Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Maillé Brézé",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Maillé Brézé Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Maillé Brézé Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Maillé Brézé Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marseillaise",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Marseillaise Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Marseillaise Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Marseillaise Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Paris",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Paris Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Paris Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Paris Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Provence",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Provence Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Provence Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Provence Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Suffren",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Suffren Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Suffren Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Suffren Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Surcouf",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Surcouf Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Surcouf Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Surcouf Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Surcouf Friendship01",
+                "categories": [
+                    {
+                        "name": "Surcouf Friendship01",
+                        "files": [
+                            "France - Surcouf Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Surcouf Romance01",
+                "categories": [
+                    {
+                        "name": "Surcouf Romance01",
+                        "files": [
+                            "France - Surcouf Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Verdun",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Verdun Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Verdun Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Verdun Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Verdun Friendship01",
+                "categories": [
+                    {
+                        "name": "Verdun Friendship01",
+                        "files": [
+                            "France - Verdun Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Verdun Romance01",
+                "categories": [
+                    {
+                        "name": "Verdun Romance01",
+                        "files": [
+                            "France - Verdun Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Volta",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Volta Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Volta Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Volta Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Émile Bertin",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "France - Émile Bertin Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "France - Émile Bertin Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "France - Émile Bertin Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Germany",
+        "characters": [
+            {
+                "name": "Admiral Graf Spee",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Admiral Graf Spee Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Admiral Graf Spee Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Admiral Graf Spee Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Admiral Hipper",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Admiral Hipper Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Admiral Hipper Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Admiral Hipper Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Admiral Scheer",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Admiral Scheer Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Admiral Scheer Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Admiral Scheer Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Atlantis",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Atlantis Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Atlantis Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Atlantis Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deutschland",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Deutschland Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Deutschland Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Deutschland Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Diether von Roeder",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Diether von Roeder Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Diether von Roeder Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Diether von Roeder Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Emden",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Emden Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Emden Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Emden Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gneisenau",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Gneisenau Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Gneisenau Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Gneisenau Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hans Lody",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Hans Lody Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Hans Lody Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Hans Lody Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hans Lüdemann",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Hans Lüdemann Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Hans Lüdemann Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Hans Lüdemann Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Köln",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Köln Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Köln Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Köln Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Leberecht Maass",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Leberecht Maass Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Leberecht Maass Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Leberecht Maass Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Leberecht Maass Friendship01",
+                "categories": [
+                    {
+                        "name": "Leberecht Maass Friendship01",
+                        "files": [
+                            "Germany - Leberecht Maass Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Leberecht Maass Romance01",
+                "categories": [
+                    {
+                        "name": "Leberecht Maass Romance01",
+                        "files": [
+                            "Germany - Leberecht Maass Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nürnberg",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Nürnberg Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Nürnberg Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Nürnberg Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Scharnhorst",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Scharnhorst Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Scharnhorst Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Scharnhorst Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Schleswig-Holstein",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Schleswig-Holstein Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Schleswig-Holstein Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Schleswig-Holstein Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Theodor Riedel",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - Theodor Riedel Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - Theodor Riedel Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - Theodor Riedel Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Theodor Riedel Friendship01",
+                "categories": [
+                    {
+                        "name": "Theodor Riedel Friendship01",
+                        "files": [
+                            "Germany - Theodor Riedel Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Theodor Riedel Romance01",
+                "categories": [
+                    {
+                        "name": "Theodor Riedel Romance01",
+                        "files": [
+                            "Germany - Theodor Riedel Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "U-29",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - U-29 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - U-29 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - U-29 Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "U-30",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - U-30 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - U-30 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - U-30 Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "U-37",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Germany - U-37 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Germany - U-37 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Germany - U-37 Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Italy",
+        "characters": [
+            {
+                "name": "Amerigo Vespucci",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Amerigo Vespucci Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Amerigo Vespucci Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Amerigo Vespucci Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antoniotto Usodimare",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Antoniotto Usodimare Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Antoniotto Usodimare Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Antoniotto Usodimare Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Archimede",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Archimede Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Archimede Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Archimede Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Axum",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Axum Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Axum Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Axum Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bolzano",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Bolzano Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Bolzano Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Bolzano Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Camicia Nera",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Camicia Nera Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Camicia Nera Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Camicia Nera Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Carabiniere",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Carabiniere Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Carabiniere Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Carabiniere Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Conte di Cavour",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Conte di Cavour Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Conte di Cavour Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Conte di Cavour Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Duilio",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Duilio Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Duilio Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Duilio Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Emanuele Filiberto Duca d'Aosta",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Emanuele Filiberto Duca d'Aosta Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Emanuele Filiberto Duca d'Aosta Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Emanuele Filiberto Duca d'Aosta Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Espero",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Espero Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Espero Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Espero Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Espero Friendship01",
+                "categories": [
+                    {
+                        "name": "Espero Friendship01",
+                        "files": [
+                            "Italy - Espero Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Espero Romance01",
+                "categories": [
+                    {
+                        "name": "Espero Romance01",
+                        "files": [
+                            "Italy - Espero Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ettore Fieramosca",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Ettore Fieramosca Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Ettore Fieramosca Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Ettore Fieramosca Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Eugenio di Savoia",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Eugenio di Savoia Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Eugenio di Savoia Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Eugenio di Savoia Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Giulio Cesare",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Giulio Cesare Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Giulio Cesare Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Giulio Cesare Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Giuseppe Garibaldi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Giuseppe Garibaldi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Giuseppe Garibaldi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Giuseppe Garibaldi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lampo",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Lampo Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Lampo Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Lampo Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Maestrale",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Maestrale Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Maestrale Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Maestrale Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pola",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - Pola Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - Pola Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - Pola Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "San Giorgio",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Italy - San Giorgio Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Italy - San Giorgio Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Italy - San Giorgio Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Japan",
+        "characters": [
+            {
+                "name": "Akagi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Akagi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Akagi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Akagi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Aoba",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Aoba Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Aoba Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Aoba Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ashigara",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Ashigara Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Ashigara Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Ashigara Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chikuma",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Chikuma Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Chikuma Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Chikuma Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chiyoda",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Chiyoda Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Chiyoda Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Chiyoda Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fubuki",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Fubuki Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Fubuki Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Fubuki Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fusō",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Fusō Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Fusō Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Fusō Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hiei",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Hiei Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Hiei Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Hiei Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hiryū",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Hiryū Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Hiryū Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Hiryū Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hōshō",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Hōshō Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Hōshō Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Hōshō Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "I-7",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - I-7 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - I-7 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - I-7 Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "I-8",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - I-8 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - I-8 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - I-8 Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ikazuchi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Ikazuchi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Ikazuchi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Ikazuchi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kaga",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Kaga Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Kaga Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Kaga Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kamikaze",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Kamikaze Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Kamikaze Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Kamikaze Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kasumi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Kasumi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Kasumi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Kasumi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kitakami",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Kitakami Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Kitakami Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Kitakami Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kongou",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Kongou Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Kongou Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Kongou Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kumano",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Kumano Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Kumano Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Kumano Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Myōkō",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Myōkō Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Myōkō Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Myōkō Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nagato",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Nagato Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Nagato Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Nagato Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nagatsuki",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Nagatsuki Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Nagatsuki Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Nagatsuki Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Naka",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Naka Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Naka Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Naka Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nenohi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Nenohi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Nenohi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Nenohi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nenohi Friendship01",
+                "categories": [
+                    {
+                        "name": "Nenohi Friendship01",
+                        "files": [
+                            "Japan - Nenohi Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nenohi Romance01",
+                "categories": [
+                    {
+                        "name": "Nenohi Romance01",
+                        "files": [
+                            "Japan - Nenohi Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ryūjō",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Ryūjō Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Ryūjō Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Ryūjō Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shigure",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Shigure Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Shigure Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Shigure Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sōryū",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Sōryū Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Sōryū Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Sōryū Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Takao",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Takao Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Takao Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Takao Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tenryū",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Tenryū Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Tenryū Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Tenryū Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Yūbari",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Japan - Yūbari Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Japan - Yūbari Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Japan - Yūbari Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Other",
+        "characters": [
+            {
+                "name": "LG3909",
+                "categories": [
+                    {
+                        "name": "LG3909",
+                        "files": [
+                            "LG3909.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LG3910",
+                "categories": [
+                    {
+                        "name": "LG3910",
+                        "files": [
+                            "LG3910.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LG3911",
+                "categories": [
+                    {
+                        "name": "LG3911",
+                        "files": [
+                            "LG3911.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LG3912",
+                "categories": [
+                    {
+                        "name": "LG3912",
+                        "files": [
+                            "LG3912.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LG4001",
+                "categories": [
+                    {
+                        "name": "LG4001",
+                        "files": [
+                            "LG4001.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LG4002",
+                "categories": [
+                    {
+                        "name": "LG4002",
+                        "files": [
+                            "LG4002.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LG4003",
+                "categories": [
+                    {
+                        "name": "LG4003",
+                        "files": [
+                            "LG4003.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LG3912",
+        "characters": [
+            {
+                "name": "Social Nutcracker",
+                "categories": [
+                    {
+                        "name": "Social Nutcracker",
+                        "files": [
+                            "LG3912 - Social Nutcracker.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LG4002",
+        "characters": [
+            {
+                "name": "Social Christmas Tales",
+                "categories": [
+                    {
+                        "name": "Social Christmas Tales",
+                        "files": [
+                            "LG4002 - Social Christmas Tales.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Netherlands",
+        "characters": [
+            {
+                "name": "De Ruyter",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Netherlands - De Ruyter Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Netherlands - De Ruyter Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Netherlands - De Ruyter Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Poland",
+        "characters": [
+            {
+                "name": "Blyskawica",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Poland - Blyskawica Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Poland - Blyskawica Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Poland - Blyskawica Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orzel",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Poland - Orzel Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Poland - Orzel Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Poland - Orzel Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wicher",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Poland - Wicher Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Poland - Wicher Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Poland - Wicher Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Soviet Union",
+        "characters": [
+            {
+                "name": "Aurora",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Aurora Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Aurora Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Aurora Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bezbozhnik",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Bezbozhnik Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Bezbozhnik Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Bezbozhnik Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Boiky",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Boiky Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Boiky Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Boiky Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Boiky Friendship01",
+                "categories": [
+                    {
+                        "name": "Boiky Friendship01",
+                        "files": [
+                            "Soviet Union - Boiky Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Boiky Romance01",
+                "categories": [
+                    {
+                        "name": "Boiky Romance01",
+                        "files": [
+                            "Soviet Union - Boiky Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chervona Ukraina",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Chervona Ukraina Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Chervona Ukraina Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Chervona Ukraina Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gnevny",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Gnevny Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Gnevny Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Gnevny Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gromky",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Gromky Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Gromky Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Gromky Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kirov",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Kirov Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Kirov Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Kirov Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Krasny Kavkaz",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Krasny Kavkaz Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Krasny Kavkaz Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Krasny Kavkaz Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "L-3",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - L-3 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - L-3 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - L-3 Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Leningrad",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Leningrad Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Leningrad Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Leningrad Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marat",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Marat Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Marat Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Marat Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Moskva",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Moskva Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Moskva Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Moskva Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nerpa",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Nerpa Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Nerpa Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Nerpa Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Parizhskaya Kommuna",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Parizhskaya Kommuna Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Parizhskaya Kommuna Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Parizhskaya Kommuna Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Profintern",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Profintern Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Profintern Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Profintern Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "S-3",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - S-3 Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - S-3 Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - S-3 Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Steregushchy",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Steregushchy Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Steregushchy Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Steregushchy Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Voroshilov",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Voroshilov Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Voroshilov Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Voroshilov Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Voykov",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Soviet Union - Voykov Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Soviet Union - Voykov Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Soviet Union - Voykov Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spain",
+        "characters": [
+            {
+                "name": "Canarias",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Spain - Canarias Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Spain - Canarias Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Spain - Canarias Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Velasco",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Spain - Velasco Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Spain - Velasco Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Spain - Velasco Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Turkey",
+        "characters": [
+            {
+                "name": "Yavuz",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "Turkey - Yavuz Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "Turkey - Yavuz Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "Turkey - Yavuz Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "United Kingdom",
+        "characters": [
+            {
+                "name": "Achilles",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Achilles Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Achilles Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Achilles Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Argus",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Argus Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Argus Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Argus Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ark Royal",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Ark Royal Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Ark Royal Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Ark Royal Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Belfast",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Belfast Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Belfast Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Belfast Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bulldog",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Bulldog Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Bulldog Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Bulldog Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cossack",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Cossack Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Cossack Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Cossack Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cossack Friendship01",
+                "categories": [
+                    {
+                        "name": "Cossack Friendship01",
+                        "files": [
+                            "United Kingdom - Cossack Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cossack Romance01",
+                "categories": [
+                    {
+                        "name": "Cossack Romance01",
+                        "files": [
+                            "United Kingdom - Cossack Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Delhi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Delhi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Delhi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Delhi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Edinburgh",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Edinburgh Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Edinburgh Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Edinburgh Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Exeter",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Exeter Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Exeter Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Exeter Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Glorious",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Glorious Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Glorious Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Glorious Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hermes",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Hermes Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Hermes Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Hermes Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hood",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Hood Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Hood Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Hood Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Manchester",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Manchester Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Manchester Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Manchester Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nelson",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Nelson Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Nelson Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Nelson Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nubian",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Nubian Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Nubian Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Nubian Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orion",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Orion Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Orion Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Orion Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Perth",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Perth Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Perth Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Perth Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Queen Mary",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Queen Mary Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Queen Mary Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Queen Mary Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rawalpindi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Rawalpindi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Rawalpindi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Rawalpindi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Saguenay",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Saguenay Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Saguenay Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Saguenay Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Salmon",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Salmon Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Salmon Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Salmon Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sheffield",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Sheffield Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Sheffield Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Sheffield Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shropshire",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Shropshire Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Shropshire Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Shropshire Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Southampton",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Southampton Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Southampton Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Southampton Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ursula",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Ursula Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Ursula Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Ursula Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vampire",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Vampire Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Vampire Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Vampire Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vendetta",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Vendetta Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Vendetta Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Vendetta Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warspite",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Warspite Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Warspite Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Warspite Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Zulu",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United Kingdom - Zulu Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United Kingdom - Zulu Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United Kingdom - Zulu Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Zulu Friendship01",
+                "categories": [
+                    {
+                        "name": "Zulu Friendship01",
+                        "files": [
+                            "United Kingdom - Zulu Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Zulu Romance01",
+                "categories": [
+                    {
+                        "name": "Zulu Romance01",
+                        "files": [
+                            "United Kingdom - Zulu Romance01.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "United States",
+        "characters": [
+            {
+                "name": "Argonaut",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Argonaut Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Argonaut Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Argonaut Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Arizona",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Arizona Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Arizona Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Arizona Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Astoria",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Astoria Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Astoria Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Astoria Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Augusta",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Augusta Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Augusta Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Augusta Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Boise",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Boise Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Boise Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Boise Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Enterprise",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Enterprise Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Enterprise Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Enterprise Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Henley",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Henley Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Henley Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Henley Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Houston",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Houston Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Houston Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Houston Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hull",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Hull Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Hull Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Hull Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hull Friendship01",
+                "categories": [
+                    {
+                        "name": "Hull Friendship01",
+                        "files": [
+                            "United States - Hull Friendship01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hull Romance01",
+                "categories": [
+                    {
+                        "name": "Hull Romance01",
+                        "files": [
+                            "United States - Hull Romance01.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lexington",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Lexington Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Lexington Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Lexington Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mahan",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Mahan Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Mahan Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Mahan Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Maury",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Maury Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Maury Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Maury Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "McDougal",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - McDougal Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - McDougal Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - McDougal Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Minneapolis",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Minneapolis Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Minneapolis Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Minneapolis Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mississippi",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Mississippi Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Mississippi Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Mississippi Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Narwhal",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Narwhal Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Narwhal Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Narwhal Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nashville",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Nashville Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Nashville Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Nashville Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nautilus",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Nautilus Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Nautilus Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Nautilus Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nevada",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Nevada Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Nevada Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Nevada Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "New Orleans",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - New Orleans Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - New Orleans Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - New Orleans Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pensacola",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Pensacola Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Pensacola Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Pensacola Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Recruit",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Recruit Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Recruit Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Recruit Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Salt Lake City",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Salt Lake City Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Salt Lake City Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Salt Lake City Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Somers",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Somers Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Somers Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Somers Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "St. Louis",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - St. Louis Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - St. Louis Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - St. Louis Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stewart",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Stewart Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Stewart Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Stewart Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Texas",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Texas Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Texas Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Texas Romance.json"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wichita",
+                "categories": [
+                    {
+                        "name": "Foundation",
+                        "files": [
+                            "United States - Wichita Foundation.json"
+                        ]
+                    },
+                    {
+                        "name": "Friendship",
+                        "files": [
+                            "United States - Wichita Friendship.json"
+                        ]
+                    },
+                    {
+                        "name": "Romance",
+                        "files": [
+                            "United States - Wichita Romance.json"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
